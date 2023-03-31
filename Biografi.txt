@@ -1,0 +1,4 @@
+Membuat UI/UX
+Database
+Front-End
+Back-End
